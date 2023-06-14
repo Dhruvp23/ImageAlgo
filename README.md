@@ -1,6 +1,6 @@
 # ImageAlgo (Software to detect impurity in image)
 
-### Video Demo:  <https://youtu.be/k99Cy0oYom0>
+
 
 <p></p>
 
